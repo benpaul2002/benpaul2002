@@ -1,7 +1,7 @@
 # Hi, I'm Ben!
 
 🎓 **MS in Computer Science @ Stony Brook University**
-💻 **Ex-Software Engineering Intern @ Neo Base & Inclusive Growth Chain**
+💻 **Ex-Software Engineering Intern @ NeoBase & Inclusive Growth Chain**
 
 I am a software engineer passionate about building intelligent systems. My work spans from low-level OS simulations to high-level AI agents and Full Stack applications.
 
@@ -33,6 +33,7 @@ I am a software engineer passionate about building intelligent systems. My work 
 | **Dungeon Master RAG** | A RAG system automating the DM role in D&D. Uses hybrid retrieval (BM25 + Semantic) and fine-tuned transformers for context-aware narratives. | `Python` `Transformers` `RAG` `VectorDB` |
 | **Adaptive Difficulty-Driver Router** | An adaptive routing system (Random Forest + XGBoost) that dynamically selects between Phi2 and WizardMath models to optimize cost vs. accuracy. | `Python` `XGBoost` `LLMs` |
 | **xv6 OS Extension** | Extended the xv6 OS with custom syscalls and implemented Priority-Based Scheduling (PBS) and FCFS algorithms. | `C` `OS Internals` `Makefile` |
+| **Bitcoin Simulator** | A blockchain built from scratch in C using linked lists and hash tables. Features automatic block creation, transaction validation, and a simulation of nonce tampering attacks. | `C` `Data Structures` `Cryptography` |
 
 ---
 
